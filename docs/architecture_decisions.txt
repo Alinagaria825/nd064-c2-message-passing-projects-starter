@@ -1,0 +1,18 @@
+Conferences and conventions are hotspots for making connections.
+
+we are building the infrastructure for a service that can inform 
+attendees if they have attended the same booths and presentations at an event.
+
+You work for a company that is building an app that uses location data from mobile devices.
+
+Your company has built a Proof of concept (POC) application to ingest location data named UdaConnect.
+
+This POC was built with the core functionality of ingesting location and identifying individuals who have shared close geographic proximity.
+
+
+
+REST to add new field so that the massege conforms with the formart.
+
+gRPC to enforce new structure 
+
+Flask code enhanced to handle new field
